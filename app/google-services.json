@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278366689019",
+    "project_id": "project-0x-a85d3",
+    "storage_bucket": "project-0x-a85d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278366689019:android:aa76f886f0191e176b025e",
+        "android_client_info": {
+          "package_name": "com.krshashi.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKDZ0Lg83zMmqx0SNvYjmi4QCctnZBCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
